@@ -10,3 +10,8 @@ On trouve python dans:
 - service web (flask, django)
 - Raspberry Pi
 - cybersécu (livre: violent python)
+
+Modules python
+- 1. "built-in" (pré-installés)
+- 2. tiers/communautaires (doivent être installés)
+- 3. personnalisés (créés par vous-mêmes)
