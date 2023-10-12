@@ -9,6 +9,7 @@ ex:
   flags/belgique.png => flagsBis/BE.png
 Le fichier missing.png devra être ignoré
 En option: mettre en place une gestion d'erreur
+Les fichiers d'origine seront, au choix, conservés (copiés) ou bien déplacés
 
 ** Exo bonus (facultatif) **
 2. Ecrire un script tp3-exo2.py qui, à partir du fichier deniro.csv,
