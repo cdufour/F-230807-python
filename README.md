@@ -20,3 +20,4 @@ Modules python
 - [Python Tutorial - w3schools](https://www.w3schools.com/python/default.asp)
 - [Python ctypes Tutorial](https://coderslegacy.com/python/ctypes-tutorial/)
 - [Python Bindings: Calling C or C++ From Python](https://realpython.com/python-bindings-overview/)
+- [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
