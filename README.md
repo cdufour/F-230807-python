@@ -21,3 +21,4 @@ Modules python
 - [Python ctypes Tutorial](https://coderslegacy.com/python/ctypes-tutorial/)
 - [Python Bindings: Calling C or C++ From Python](https://realpython.com/python-bindings-overview/)
 - [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
+- [SQLite Databases With Python - Full Course | youtube](https://youtu.be/byHcYRpMgI4?si=ZoIeKgFmf1O6uoQ8)
